@@ -1,3 +1,7 @@
 private int a ;
 private int b;
 ptivate String name;
+
+sửa code;
+sửa code;
+sửa code;
